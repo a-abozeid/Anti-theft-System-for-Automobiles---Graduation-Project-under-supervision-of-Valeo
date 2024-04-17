@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/191901717/Grad/MyVehicleV2/app/src/main/res/layout/activity_change_authentication.xml" value="0.2" />
+        <entry key="..\:/191901717/Grad/MyVehicleV2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/191901717/Grad/MyVehicleV2/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/drawable/input_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_change_authentication.xml" value="0.264" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_change_password.xml" value="0.2" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_confirmation.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Mourad Eldin Nash'at/AndroidStudioProjects/MyVehicleV2/app/src/main/res/layout/activity_verification.xml" value="0.1" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_accessibility_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_confirmation_number_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_directions_car_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/drawable/input_background.xml" value="0.2315" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/layout/activity_confirmation.xml" value="0.264" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/abdel/Downloads/MyVehicleV2/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/abdel/OneDrive/Desktop/Grad/Anti-Theft Sytsem for Autombile (Valeo)/Mobile Application/MyVehicleV2/app/src/main/res/layout/activity_main.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/abdel/OneDrive/Desktop/Grad/Anti-Theft Sytsem for Autombile (Valeo)/Mobile Application/MyVehicleV2/app/src/main/res/layout/activity_verification.xml" value="0.11197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

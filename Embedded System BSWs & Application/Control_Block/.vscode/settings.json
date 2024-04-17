@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "dio.h": "c",
+        "common_macros.h": "c",
+        "port.h": "c",
+        "keypad.h": "c",
+        "platform_types.h": "c",
+        "compiler.h": "c",
+        "external_eeprom.h": "c",
+        "lcd.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

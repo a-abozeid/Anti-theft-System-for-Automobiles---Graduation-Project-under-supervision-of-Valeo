@@ -1,0 +1,75 @@
+# ninja log v5
+161	310	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Port.xcl	e54119c6fdd8bad2
+348	496	6680414750000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/lcd.xcl	3788ee4563154e53
+132	320	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Det.xcl	8e6773d71427df95
+536	602	6680414750000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Uart_PBcfg.xcl	b323e22725d736a5
+154	331	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Dio.xcl	28db492fc66f3ff4
+157	341	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Dio_PBcfg.xcl	1bfa9a59aa61a249
+36	156	6688263580000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Spi_PBcfg.xcl	4b244dc178424877
+328	430	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Port_PBcfg.xcl	b4c353e91c9206e8
+317	420	6680414740000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/keypad.xcl	43027988a6a6d93f
+338	462	6680414750000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/HMI_ECU.xcl	8b74e8a123b2321c
+1	122	6691439190000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/uart.xcl	adb590101dbd67ef
+427	506	6680414750000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Uart.xcl	8b7868651f418b9c
+456	530	6680414750000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Sw_Delay.xcl	25e37c75183d5879
+174	240	6719810889530799	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Port_PBcfg.pbi	d6fb4c8e60c745e9
+693	1573	6768685529447275	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp.pbw	8f3b957fd3625a90
+111	149	6689685202598829	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Uart.pbi	66eeed79655dadb1
+30	120	6719810888260925	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Dio.pbi	21e80c79f294c2ff
+32	191	6719810889020812	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Det.pbi	3ec381f6863ae486
+117	164	6719810888760804	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Dio_PBcfg.pbi	2c7f8dcc1ad832ae
+317	328	6719810890410785	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp_part3.pbi	5ac14391b525ef69
+61	288	6768678022391728	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/HMI_ECU.pbi	1631d3ee0e6dce7f
+1	68	6768685580831315	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/lcd.pbi	98fa8fd683239ba5
+271	314	6719810890260779	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/uart.pbi	ee20de556c1fcaf3
+9	61	6767876347751466	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Sw_Delay.pbi	cad650f7087f8b9d
+34	113	6719810888230808	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/keypad.pbi	26cad3634c6afca7
+153	210	6719810889210814	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Port.pbi	9dbb5b3980831d65
+292	311	6768678022637822	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp_part0.pbi	4442afb7e51d0fe2
+72	100	6768685581181326	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp_part1.pbi	26e138fd0fea4197
+65	93	6767876348041478	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp_part2.pbi	d95c45ff6316e736
+229	286	6719810889940822	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Uart_PBcfg.pbi	ea22a5b73ed33ce4
+528	686	6768685520776463	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp.pbd	3185afd75b1a1315
+1	140	6688263580000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Spi.xcl	64d3f529c79d8d83
+33	148	6688263580000000	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/RFID.xcl	267ecf05b2228ed4
+214	273	6719810889810807	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Spi.pbi	901ea5964cf11c31
+124	170	6719810888780826	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/Spi_PBcfg.pbi	f6cc88a65ddb9fe0
+194	250	6719810889610791	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/RFID.pbi	c8be289f963ef4ef
+1	37	6768685632435017	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp.pbd	3185afd75b1a1315
+4	971	6768685694824103	D:/Embedded_non-stop/Graduation Project/HMI_Block/Debug/BrowseInfo/gp.pbw	8f3b957fd3625a90
+2	253	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Det.xcl	10cce7e897a255ae
+36	272	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/lcd.xcl	c6d9cf96e4600796
+28	287	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Dio_PBcfg.xcl	d3d7ee17116f529c
+13	310	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Dio.xcl	2ae189ec73d49abd
+262	432	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/keypad.xcl	98347436f2d5d720
+282	450	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Port_PBcfg.xcl	bb72ffa394ef65fc
+298	464	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/HMI_ECU.xcl	2a9a34a099bcc437
+320	483	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Port.xcl	2a5f5e4f4ca70905
+441	597	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Spi_PBcfg.xcl	acb2ea187deb9007
+458	612	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Spi.xcl	d8992e3ac553bcf2
+474	628	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Sw_Delay.xcl	f2fbe4d4cea80f24
+493	661	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/RFID.xcl	72de10987b772923
+671	749	6770769509988344	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Det.pbi	44bd0da806efa7b5
+607	759	6770769500000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/uart.xcl	91f382977ce4b229
+621	797	6770769510504460	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Dio.pbi	472709dabb6b14cd
+638	837	6770769510894268	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/keypad.pbi	68b0d1f918070fd6
+802	908	6770769511611136	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/lcd.pbi	c8fb8a768b042f29
+769	946	6770769511990762	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Dio_PBcfg.pbi	ee20bc9c4db7c789
+843	959	6770769510000000	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Uart_PBcfg.xcl	b18749fcde8543f8
+953	1040	6770769512898279	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/uart.pbi	4d9bfbf87e7be52c
+755	1063	6770769513003468	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/HMI_ECU.pbi	b3ef79db873091a4
+916	1177	6770769514255831	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Port.pbi	52ff0e4e740d0796
+1057	1196	6770769514292057	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Sw_Delay.pbi	6b2ef128ae65586a
+969	1241	6770769514885142	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/RFID.pbi	247ac25ade308aa5
+1190	1315	6770769515655667	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Port_PBcfg.pbi	86ab2978bfb2c951
+1076	1337	6770769515844435	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Spi_PBcfg.pbi	843dd4567c2445a9
+1329	1377	6770769516283376	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp_part1.pbi	195fcadf8c4848b8
+1352	1403	6770769516530968	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp_part0.pbi	88084143d779996d
+1209	1424	6770769516716412	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Spi.pbi	25c2bdcd25a7f30e
+1434	1458	6770769517116478	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp_part2.pbi	6b55bd19f7a0b42d
+1250	1478	6770769517299093	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/Uart_PBcfg.pbi	5a607bf1b7d7b69a
+1487	1504	6770769517568866	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp_part3.pbi	769c5c6e18c08bbc
+1513	1554	6770769518086045	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp.pbd	c881df1673af885
+4	1013	6770769586624754	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/gp.pbw	2df94aa43e0acead
+105	189	6808177222901951	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/lcd.pbi	c8fb8a768b042f29
+102	198	6808177222989192	D:/embedded_non-stop/Graduation-Project/HMI_Block/Debug/BrowseInfo/HMI_ECU.pbi	b3ef79db873091a4

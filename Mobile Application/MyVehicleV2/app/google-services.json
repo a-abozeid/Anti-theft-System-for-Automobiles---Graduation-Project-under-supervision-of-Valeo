@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169892097454",
+    "project_id": "my-vehicle-v2-firebase",
+    "storage_bucket": "my-vehicle-v2-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169892097454:android:0f5369424445af96232c3f",
+        "android_client_info": {
+          "package_name": "com.example.myvehiclev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169892097454-f3jep0e7i7t0db87j0nahfskol0qrnre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_1caw5l6UuuXC-9BR5q2Sp56AUGpi_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169892097454-f3jep0e7i7t0db87j0nahfskol0qrnre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

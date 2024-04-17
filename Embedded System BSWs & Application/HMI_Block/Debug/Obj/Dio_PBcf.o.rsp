@@ -1,0 +1,1 @@
+﻿"D:\Embedded_non-stop\Graduation Project\Dio_PBcf.c" -o "D:\Embedded_non-stop\Graduation Project\Debug\Obj\\" --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\DLib_Config_Normal.h" -Ol
